@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="EMA;~@9/Jipb}!Fp^=d@" x="163" y="-184"></block><block type="device_button_event" id="j[J:rrB}keYPBZkdQ@{*" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="~M+n+mtmRFrToD*MNO@6"><field name="LEDS">`
+        # . . . . 
+        . . # . . 
+        . . # . . 
+        . . . # # 
+        . . . . #
+        `</field><next><block type="playMelody" id="~R~xNX7H*8*/]@c+(a-+"><value name="melody"><shadow type="melody_editor"><field name="melody">"- - - - - - - - "</field></shadow><block type="melody_editor" id="I?Dr?8o}e#S=6TEtKJA2"><field name="melody">"C5 B A G F E D C "</field></block></value><value name="tempo"><shadow type="math_number_minmax" id="zwDZurK`kNIgPA~s.|7["><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></next></block></statement></block></xml>
